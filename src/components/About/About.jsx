@@ -26,7 +26,7 @@ const About = () => {
            <span className='text-white'>I am a</span>
            <TypeAnimation
             sequence={[
-             'Passionate', 2000,
+             // 'Passionate', 2000,
              'Web Developer', 2000,
           // 'UI/UX Designer', 2000,
               'Coder', 2000,
