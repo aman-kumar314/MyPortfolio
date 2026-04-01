@@ -103,7 +103,7 @@ export const SkillsInfo = [
       // { name: 'Git', logo: gitLogo },
       { name: 'GitHub', logo: githubLogo },
       { name: 'VS Code', logo: vscodeLogo },
-      // { name: 'Postman', logo: postmanLogo },
+       { name: 'Postman', logo: postmanLogo },
       // { name: 'Compass', logo: mcLogo },
       // { name: 'Vercel', logo: vercelLogo },
       // { name: 'Netlify', logo: netlifyLogo },
