@@ -27,7 +27,7 @@ const About = () => {
            <TypeAnimation
             sequence={[
              // 'Passionate', 2000,
-             'Web Developer', 2000,
+             'Software Developer', 2000,
           // 'UI/UX Designer', 2000,
               'Coder', 2000,
               ]}
