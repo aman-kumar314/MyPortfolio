@@ -62,7 +62,7 @@ const Footer = () => {
 
         {/* Copyright Text */}
         <p className="text-sm text-gray-400 mt-6">
-          © 2025 Aman kumar. All rights reserved.
+          © 2026 Aman kumar. All rights reserved.
         </p>
 
     </div>
